@@ -22,7 +22,7 @@ Welcome to my ICPC Assiut Sheets Problem-Solving repository! 💡 Here, you'll f
 - [x] Sheet 2
 - [x] contest 2
 - [x] Sheet 3
-- [ ] contest 3.1
+- [x] contest 3.1
 - [ ] sheet 4
 - [ ] sheet 5
 - [ ] sheet 6
